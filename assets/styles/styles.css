@@ -44,7 +44,7 @@ header nav a:hover {
 /*FILME-PRINCIPAL*/
 .serie-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('assets/img/breaking-bad-capa.jpeg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/assets/img/breaking-bad-capa.jpeg');
 
     height: 600px;
     background-size: cover;
